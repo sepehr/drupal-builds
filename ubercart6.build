@@ -1,0 +1,14 @@
+api = 2
+core = 6.x
+
+projects[drupal] = 6.22
+projects[cck] = 2.9
+projects[token] = 1.16
+projects[filefield] = 3.10
+projects[imageapi] = 1.10
+projects[imagecache] = 2.0-beta12
+projects[imagefield] = 3.10
+projects[thickbox] = 1.6
+projects[views] = 2.12
+projects[google_analytics] = 3.3
+projects[ubercart] = 2.4
