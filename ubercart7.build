@@ -1,0 +1,11 @@
+api = 2
+core = 7.x
+
+projects[drupal] = 7.2
+projects[rules] = 2.0-beta1
+projects[views] = 3.0-beta3
+projects[ctools] = 1.0-alpha4
+projects[entity] = 1.0-beta8
+projects[colorbox] = 1.0-beta4
+projects[google_analytics] = 1.2
+projects[ubercart] = 3.0-beta2
